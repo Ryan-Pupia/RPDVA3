@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RPDVA3/static/css/main.0231ba82.css",
+    "main.js": "/RPDVA3/static/js/main.a7ddbec6.js",
+    "static/media/tips.csv": "/RPDVA3/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/RPDVA3/index.html",
+    "main.0231ba82.css.map": "/RPDVA3/static/css/main.0231ba82.css.map",
+    "main.a7ddbec6.js.map": "/RPDVA3/static/js/main.a7ddbec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0231ba82.css",
+    "static/js/main.a7ddbec6.js"
+  ]
+}
